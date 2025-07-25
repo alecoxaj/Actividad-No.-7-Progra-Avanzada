@@ -85,7 +85,7 @@ def calculadora(num1, num2, operacion):
         return "Operación no válida"
 
 while True:
-    print("\nMenú")
+    print("\nMenú:  ")
     print("1. Análisis de lista de números reales")
     print("2. Área y perímetro del rectángulo")
     print("3. Verificar si un número es primo")
